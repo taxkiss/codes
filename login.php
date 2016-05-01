@@ -1,0 +1,1 @@
+请输入验证码：<img src="index.php" onclick="this.src='index.php?a=+random()'">
